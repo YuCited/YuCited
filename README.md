@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YuCited
+- 👀 I’m interested in SIG, social data science
+- 🌱 I’m currently learning C# & Stata
+- 💞️ I’m looking to collaborate on anything
